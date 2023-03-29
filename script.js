@@ -7,7 +7,8 @@ const secondHand = document.querySelector('.second-hand');
     const secondsDegrees = ((seconds / 60) * 360) + 90;
     secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
     const mins = now.getMinutes();
-    const minsDegrees = ((mins / 60) * 360) + ((seconds/60)*6) + 90;
+    // const minsDegrees = ((mins / 60) * 360) + ((seconds/60)*6) + 90;
+    const minsDegrees = ((mins / 60) * 360) + ((seconds/60)*6) + 180;
     minsHand.style.transform = `rotate(${minsDegrees}deg)`;
     const hour = now.getHours();
     // change seconds to hours on the line below

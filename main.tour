@@ -9,7 +9,7 @@
       },
       {
         "file": "index.html",
-        "line": 22,
+        "line": 19,
         "description": "Our clock has a question mark instead of the number 6. Update the `<h1 id='six'>?</h1>` to render the number 6!"
       },
       {

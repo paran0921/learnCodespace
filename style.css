@@ -10,7 +10,7 @@ h1{
 }
   body {
     /*change the background color to a gradient of your choice*/
-    background: linear-gradient(to bottom right, #47D457, #0F1CCD);
+    background: linear-gradient(to bottom right, #47a7d462, #0894f1e0);
     margin: 0;
     font-size: 2rem;
     display:flex;
