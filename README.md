@@ -1,5 +1,8 @@
 # learnCodespace
 
+## Codespaces Base Starter  
+https://github.com/codespaces-examples/base  
+
 ## GitHub Codespaces: Coding in the Cloud Series' Articles  
 https://dev.to/blackgirlbytes/series/21396  
 * Dev Container metadata reference  
