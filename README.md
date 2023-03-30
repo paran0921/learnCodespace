@@ -1,7 +1,9 @@
 # learnCodespace
 
 ## GitHub Codespaces: Coding in the Cloud Series' Articles  
-https://dev.to/blackgirlbytes/series/21396
+https://dev.to/blackgirlbytes/series/21396  
+* Dev Container metadata reference  
+https://containers.dev/implementors/json_reference/  
 
 ## Google Search Keyboard  
 * github codespace docker compose    
